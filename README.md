@@ -16,16 +16,3 @@ Durante o curso, adquiri conhecimentos fundamentais em programação, algoritmos
 
 ---
 
-## ⚠ Observações
-
-- Curso realizado de forma autodidata, com prática em exercícios e projetos do CS50  
-- Não possui certificado oficial, mas contribuiu significativamente para minhas habilidades em programação
-
----
-
-## 📌 Projetos
-
-Aqui você pode adicionar links para projetos que desenvolveu durante o CS50, por exemplo:  
-
-- [Projeto 1](#) – Descrição breve do projeto  
-- [Projeto 2](#) – Descrição breve do projeto  
